@@ -8,8 +8,11 @@ configurable via the virtual terminal.
 
 The list of counts should be in ascending time order. A typical display would have 3 lines like
 this:
-998 5 \n
+
+998 5 
+
 999 950
+
 1000 45
 
 
